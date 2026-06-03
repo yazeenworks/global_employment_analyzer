@@ -1,9 +1,8 @@
-streamlit==1.45.0
-pandas==2.3.3
-numpy==2.2.6
-plotly==6.7.0
-matplotlib==3.10.7
-seaborn==0.13.2
-altair==6.0.0
-requests==2.32.5
-pyarrow==23.0.1
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+requests
+pyarrow
